@@ -11,6 +11,8 @@ public class Exercicio {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        // Comentario Inicial
+        // Comentario 2
     }
     
 }
